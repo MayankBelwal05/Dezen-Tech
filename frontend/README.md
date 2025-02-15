@@ -1,7 +1,7 @@
 # Dezen Technology
 
 ## Introduction
-This Website is a **static clone** of a Figma design, developed using **React, Tailwind CSS, React CSS, and Vite**. The project focuses on creating a **responsive and modern UI** with a well-structured component-based architecture.
+This Website is a **static clone** of a Figma design, developed using **React, Tailwind CSS, React CSS, and Vite**. The project focuses on creating a **modern UI** with a well-structured component-based architecture.
 
 ## Technology Stack
 - **React** - JavaScript library for building UI components.
@@ -52,7 +52,7 @@ frontend/
 ![alt text](top.png)
 - Second
   ![alt text](mid.png)
-  
+
 For more Visit the live link => https://dezen-dechnology.vercel.app/
 
 ## **Features**

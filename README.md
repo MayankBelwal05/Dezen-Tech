@@ -49,9 +49,9 @@ frontend/
 
 ## **Sample Images of the Project**
 - First
-![alt text](top.png)
+![](frontend/src/assets/images/readme1.png)
 - Second
-![alt text](mid.png)
+![](frontend/src/assets/images/readme2.png)
 
 For more Visit the live link => https://dezen-dechnology.vercel.app/
 

@@ -8,7 +8,7 @@ This Website is a **static clone** of a Figma design, developed using **React, T
 - **Tailwind CSS** - Utility-first CSS framework for styling.
 - **React CSS** - Component-level styling.
 - **Vite** - Modern frontend build tool for fast performance.
-
+- **Vercel** - Deployment of React Website static clone.
 
 ## Project Type-
 Frontend (Static)
@@ -51,7 +51,7 @@ frontend/
 - First
 ![alt text](top.png)
 - Second
-  ![alt text](mid.png)
+![alt text](mid.png)
 
 For more Visit the live link => https://dezen-dechnology.vercel.app/
 

@@ -29,7 +29,6 @@ const Footer = () => {
 
                 
                 {/* Right Section */}
-
                 <div className="w-[788px] h-[304px] flex flex-row justify-between p-4 pt-0">
                     {/* Section 1 */}
                     <div className="flex flex-col text-white">
@@ -96,8 +95,6 @@ const Footer = () => {
                 <img src={whatsapp} alt="WhatsApp Logo" className='w-[24px] h-[24px]' />
                 <span className="text-[#5BD066] text-sm font-medium">How can we help you?</span>
             </div>
-
-
             {/* Bottom */}
             <div className="w-[1620px] h-[50px]  mb-0 mt-6 border-t border-white-700 flex items-center justify-center px-4">
                 <p className="text-white text-sm">&copy; 2024 Your Company. All rights reserved.</p>
